@@ -6308,9 +6308,7 @@
                 className: "footer"
             }, i.a.createElement("div", {
                 className: "bottom"
-            }, "Clicky Game! ", i.a.createElement("img", {
-                alt: "react",
-                src: "https://raw.githubusercontent.com/griegomas/clicky/master/assets/images/react.svg"
+            }, "Joel's ClIcKy "
             })))
         });
     t.a = a
