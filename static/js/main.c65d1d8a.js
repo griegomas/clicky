@@ -6308,7 +6308,9 @@
                 className: "footer"
             }, i.a.createElement("div", {
                 className: "bottom"
-            }, "Joel's ClIcKy "
+            }, "Clicky Game! ", i.a.createElement("img", {
+                alt: "react",
+                src: "https://raw.githubusercontent.com/griegomas/clicky/master/assets/images/evilmorty.png"
             })))
         });
     t.a = a
@@ -6402,4 +6404,3 @@
     t.a = r;
     var a = Boolean("localhost" === window.location.hostname || "[::1]" === window.location.hostname || window.location.hostname.match(/^127(?:\.(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)){3}$/))
 }]);
-//# sourceMappingURL=main.c65d1d8a.js.map
